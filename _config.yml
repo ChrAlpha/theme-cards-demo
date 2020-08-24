@@ -6,7 +6,7 @@ author: ChrAlpha
 language: en
 timezone: 
 
-url: https://theme-cards.ichr.me
+url: https://theme-cards.ichr.me/demo
 root: /demo/
 
 permalink: :year/:month/:title/
