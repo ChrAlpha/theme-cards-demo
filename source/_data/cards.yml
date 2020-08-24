@@ -1,0 +1,49 @@
+navbar: 
+  sitename: Theme Cards Demo
+  menu: 
+    - name: Home
+      url: /
+    - name: Tags
+      url: /tags/
+    - name: Archives
+      url: /archives/
+    - name: Links
+      url: /links/
+    - name: Page
+      url: /page/
+
+cover: 
+  sitename: Theme Cards Demo
+  description: Hi, nice to meet you!
+
+style: 
+  highlight: 
+    default: github
+    darkmode: atom-one-dark-reasonable
+
+meta:
+  expire: 
+    enable: false
+  auto_excerpt: 
+    enable: true
+    length: 150
+  toc: 
+    enable: true
+    list_number: true
+  copyright: 
+    enable: true
+
+footer:
+  copyright_since: 2019
+
+note: true
+back_to_top: true
+darkmode: true
+
+vendors:
+  back_to_top: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.0.1/dist/js/b2t.min.js
+  local_search: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.0.1/dist/js/local-search.min.js
+  lazyload: https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.1.0/dist/lazyload.min.js
+  custom_script: 
+    - '<script>window.ga_tid="UA-149861608-2"</script>'
+    - '<script src="https://rmt.dogedoge.com/fetch/public/ga.js" async></script>'
