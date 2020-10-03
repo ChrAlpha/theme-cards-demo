@@ -40,10 +40,17 @@ note: true
 back_to_top: true
 darkmode: true
 
+lazyload:
+  enable: true
+
+search:
+  enable: true
+  path: search.json
+  field: All
+
 vendors:
-  back_to_top: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.0.1/dist/js/b2t.min.js
-  local_search: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.0.1/dist/js/local-search.min.js
-  lazyload: https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.1.0/dist/lazyload.min.js
+  local_search: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.1/dist/js/local-search.min.js
+  lazyload: https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.1.2/dist/lazyload.min.js
   custom_script: 
     - '<script>window.ga_tid="UA-149861608-2"</script>'
     - '<script src="https://rmt.dogedoge.com/fetch/public/ga.js" async></script>'

@@ -28,4 +28,7 @@ links:
   - name: 阿成儿
     url: https://blog.bytehua.com/
     avatar: https://avatars2.githubusercontent.com/u/16396357?s=460&u=64aca4c5356894117268c2793fbe17fa16e34bd8&v=4
+  - name: 小孔成像
+    url: https://kurumit3.top/
+    avatar: https://rmt.dogedoge.com/fetch/kurumit3/storage/avatar.jpg?fmt=webp
 ---
