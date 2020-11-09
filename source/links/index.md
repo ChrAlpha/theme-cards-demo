@@ -31,4 +31,7 @@ links:
   - name: 小孔成像
     url: https://kurumit3.top/
     avatar: https://rmt.dogedoge.com/fetch/kurumit3/storage/avatar.jpg?fmt=webp
+  - name: Nozomi 的深渊
+    url: https://haysc.tech/
+    avatar: https://haysc.tech/uploads/avatar.png
 ---
