@@ -25,13 +25,13 @@ links:
   - name: 若风
     url: https://loafing.cn/
     avatar: https://cdn.jsdelivr.net/gh/forliuyifei/forliuyifei.github.io.bak@master/img/lyf3.png
-  - name: 阿成儿
-    url: https://blog.bytehua.com/
-    avatar: https://avatars2.githubusercontent.com/u/16396357?s=460&u=64aca4c5356894117268c2793fbe17fa16e34bd8&v=4
   - name: 小孔成像
     url: https://kurumit3.top/
     avatar: https://rmt.dogedoge.com/fetch/kurumit3/storage/avatar.jpg?fmt=webp
   - name: Nozomi 的深渊
     url: https://haysc.tech/
     avatar: https://haysc.tech/uploads/avatar.png
+  - name: 初始化博客
+    url: https://init.blog/
+    avatar: https://oss.init.blog/avatar.32x32.png
 ---
