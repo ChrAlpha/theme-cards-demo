@@ -49,7 +49,6 @@ search:
   field: All
 
 vendors:
-  local_search: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.1/dist/js/local-search.min.js
   lazyload: https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.1.2/dist/lazyload.min.js
   custom_script: 
     - '<script>window.ga_tid="UA-149861608-2"</script>'

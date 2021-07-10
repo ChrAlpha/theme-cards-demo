@@ -17,7 +17,7 @@ links:
     url: https://github.com/ChrAlpha/hexo-theme-cards
     avatar: https://theme-cards.ichr.me/assets/icon/android-chrome-96x96.png
   - name: Flexiston
-    url: https://flexiston.com/
+    url: https://blog.flesx.cn/
     avatar: https://cdn.jsdelivr.net/gh/Flexiston/CDN@latest/img/avatar/avatar-min.jpg
   - name: NeroAsmar
     url: https://neroasmar.top/
