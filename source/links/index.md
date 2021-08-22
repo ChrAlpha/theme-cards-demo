@@ -34,4 +34,7 @@ links:
   - name: 初始化博客
     url: https://init.blog/
     avatar: https://oss.init.blog/avatar.32x32.png
+  - name: DioPong
+    url: https://blog.2to.fun/
+    avatar: https://blog.2to.fun/favicon.svg
 ---
