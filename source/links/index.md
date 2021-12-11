@@ -37,4 +37,7 @@ links:
   - name: DioPong
     url: https://blog.2to.fun/
     avatar: https://blog.2to.fun/favicon.svg
+  - name: WXY
+    url: https://c.undf.top/
+    avatar: https://c.undf.top/icon/android-chrome-144x144.png
 ---
