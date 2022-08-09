@@ -40,4 +40,7 @@ links:
   - name: WXY
     url: https://c.undf.top/
     avatar: https://c.undf.top/icon/android-chrome-144x144.png
+  - name: 锦鲤未离
+    url: https://koinl.github.io/
+    avatar: https://avatars.githubusercontent.com/u/108771234?v=4
 ---
