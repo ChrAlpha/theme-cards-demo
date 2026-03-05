@@ -6,5 +6,4 @@ node_modules/
 public/
 .deploy*/
 themes/
-package-lock.json
 yarn.lock
